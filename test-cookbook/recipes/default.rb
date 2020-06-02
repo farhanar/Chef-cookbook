@@ -6,3 +6,5 @@
 
 include_recipe "test-cookbook::test-recipe"
 include_recipe "test-cookbook::demo-recipe"
+include_recipe "test-cookbook::loop-recipe"
+include_recipe "test-cookbook::user-recipe"
